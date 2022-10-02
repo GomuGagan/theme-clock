@@ -59,6 +59,7 @@ body{
     position: relative;
     width: 200px;
     height: 200px;
+    margin-bottom: 10px;
     
 }
 
@@ -78,11 +79,11 @@ body{
 }
 .needle.minute{
     transform: translate(-50%, -100%) rotate(0deg);
-    height: 100px;
+    height: 110px;
 }
 .needle.second{
     transform: translate(-50%, -100%) rotate(0deg);
-    height: 100px;
+    height: 90px;
     background-color: #e74c3c;
 }
 
